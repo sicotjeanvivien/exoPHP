@@ -15,7 +15,7 @@ indication :
 Nous souhaitons aussi afficher le nombre de voyelles contenu dans le nom en exploitant la puissans des expressions rationnelles.
 
 Indications : 
-    - utilisez unz expression rationnlle pour trouver le nombre de fois où une voyelle apparait dans le nom (pensez à gérer correctement la case)
+    - utilisez une expression rationnlle pour trouver le nombre de fois où une voyelle apparait dans le nom (pensez à gérer correctement la case)
     - affichez un message du type "Votre nom comporte n voyelle"
 
 ## ETAPE 3
