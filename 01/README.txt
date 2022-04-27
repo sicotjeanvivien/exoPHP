@@ -1,0 +1,1 @@
+Ecrivez un script nommé acceil.php qui affiche une page intitulé "Accueil" avec le message "Bonjour PHP" et "Bienvenue sur monsite.com" sur deux lignes.
