@@ -46,32 +46,32 @@ Indications :
 
 |Résultat attendu (aucun auteur visité)       |
 |                                             |
-||      Auteurs      |                        |
-|| :---------------: |                        |
-||    Victor Hugo    |                        |
-|| Charle Baudelaire |                        |
-||  Arthur Rimbaud   |                        |
-||   Paul Verlaine   |                        |
+|      Auteurs      |
+| :---------------: |
+|    Victor Hugo    |
+| Charle Baudelaire |
+|  Arthur Rimbaud   |
+|   Paul Verlaine   |
 
 
-|Résultat attendu (un auteur visité)          |
-|                                             |
-||      Auteurs      |                        |
-|| :---------------: |                        |
-||    Victor Hugo    |                        |
-|| Charle Baudelaire |                        |
-||  Arthur Rimbaud   |                        |
-||   Paul Verlaine   |                        |
-|                                             |
-|Trois dernier auteurs consultés : Victor Hugo|
+|Résultat attendu (un auteur visité)            |
+|                                               |
+|                    Auteurs                    |
+| :-------------------------------------------: |
+|                  Victor Hugo                  |
+|               Charle Baudelaire               |
+|                Arthur Rimbaud                 |
+|                 Paul Verlaine                 |
+|                                               |
+| Trois dernier auteurs consultés : Victor Hugo |
 
-|Résultat attendu (plusieur auteurs visités)                                   |
-|                                                                              |
-||      Auteurs      |                                                         |
-|| :---------------: |                                                         |
-||    Victor Hugo    |                                                         |
-|| Charle Baudelaire |                                                         |
-||  Arthur Rimbaud   |                                                         |
-||   Paul Verlaine   |                                                         |
-|                                                                              |
-|Trois dernier auteurs consultés : Paul Verlaine - Arthur Rimbaud - Victor Hugo|
+|Résultat attendu (plusieur auteurs visités)                                     |
+|                                                                                |
+|                                    Auteurs                                     |
+| :----------------------------------------------------------------------------: |
+|                                  Victor Hugo                                   |
+|                               Charle Baudelaire                                |
+|                                 Arthur Rimbaud                                 |
+|                                 Paul Verlaine                                  |
+|                                                                                |
+| Trois dernier auteurs consultés : Paul Verlaine - Arthur Rimbaud - Victor Hugo |
