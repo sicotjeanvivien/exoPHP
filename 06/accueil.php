@@ -16,6 +16,7 @@ include_once('classe.Auteur.php');
       echo $auteur->format(),'<br />';
       echo $auteur->format(Auteur::PRENOM_ENTRE_PARENTHESES),'<br />';
       echo $auteur->format(Auteur::PRENOM_APRES_VIRGULE),'<br />';
+      echo $auteur->format(Auteur::PRENOM_APRES_VIRGULE),'<br />';
       echo $auteur->format('?'),'<br />';
     } catch (Exception $e) {
       printf('<b>Erreur : %s.</b>',$e->getMessage());
