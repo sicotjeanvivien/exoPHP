@@ -2,11 +2,7 @@
 
 Dans cette exeercice, nous allons développer une petite application de deux pages qui permet de gérer les auteurs dans la base de données MySQL.
 Pour cet exercice, vous devez disposer d'un accés à une base de données MySQL et y créer la table suivant : 
-    **CREATE TABLE auteurs (**
-        **prenom VARCHAR(40) NOT NULL,**
-        **nom VARCHAR(40) NOT NULL,**
-        **PRIMARY KEY (nom, prenom)**
-    **);**
+  **CREATE TABLE auteurs (prenom VARCHAR(40) NOT NULL, nom VARCHAR(40) NOT NULL, PRIMARY KEY (nom, prenom));**
 
 ## ETAPE 1
 
