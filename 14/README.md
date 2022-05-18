@@ -22,11 +22,11 @@ Pour obtenir ce résultat, nous allons utiliser un tableau qui utilise le numér
 Le tableau stocké en variable de session(dans **$_SESSION**) s'appellera ***visites***.
 
 Exemple de contenu possible du tableau **$_SESSION** : 
-    * $_SESSION =
-        * visites =
-            * 3 = 1528723031
-            * 1 = 1528723027
-            * 2 = 1528723021
+    *$_SESSION =
+        *visites =
+            *3 = 1528723031
+            *1 = 1528723027
+            *2 = 1528723021
 
 La syntaxe dy type ***$_SESSION['visites'][n]*** permet d'accèder à l'auteur numéro ***n*** stocké dans le tableau des auteurs visités.
 
