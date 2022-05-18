@@ -44,7 +44,8 @@ Indications :
   - Si l'entrée ***visites*** exite dans les données de session, parcourez le tableau des auteurs visités en récupérant le numéro de l'auteur (et le timestamp de derniére visite qui ne sera pas utilisé ici) et constituez la liste des auteurs visités dans une châine de caratéres nommée ***$auteur_vus***, en utilisant le trait d'union comme séparateur. 
   - Dans la page HTML, sous le tableau des auteurs, affichez un message du type "Trois derniers auteurs consultés : ...", uniquement si la liste des auteurs visités n'est pas vide.
 
-| Résultat attendu (aucun auteur visité) |
+##### Résultat attendu (aucun auteur visité)
+
 |      Auteurs      |
 | :---------------: |
 |    Victor Hugo    |
@@ -53,7 +54,7 @@ Indications :
 |   Paul Verlaine   |
 
 
-|      Résultat attendu (un auteur visité)      |
+##### Résultat attendu (un auteur visité)
 |                    Auteurs                    |
 | :-------------------------------------------: |
 |                  Victor Hugo                  |
@@ -63,7 +64,7 @@ Indications :
 |                                               |
 ***Trois dernier auteurs consultés : Victor Hugo***
 
-|                  Résultat attendu (plusieur auteurs visités)                   |
+##### Résultat attendu (plusieur auteurs visités)
 |                                    Auteurs                                     |
 | :----------------------------------------------------------------------------: |
 |                                  Victor Hugo                                   |
