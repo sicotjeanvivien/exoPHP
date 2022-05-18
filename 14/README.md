@@ -1,6 +1,6 @@
 #   EXERCICE 14 - Gérer les sessions  #
 
-*Dans cet exercice, nous allons apprendre à utiliser la gestion de PHP afin d'afficher la liste des trois derniers auteurs consultés par l'utilisateur.
+    * Dans cet exercice, nous allons apprendre à utiliser la gestion de PHP afin d'afficher la liste des trois derniers auteurs consultés par l'utilisateur.
 
 ## ETAPE 1
 
