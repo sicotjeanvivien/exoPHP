@@ -45,17 +45,15 @@ Indications :
   - Dans la page HTML, sous le tableau des auteurs, affichez un message du type "Trois derniers auteurs consultés : ...", uniquement si la liste des auteurs visités n'est pas vide.
 
 | Résultat attendu (aucun auteur visité) |
-| :------------------------------------: |
-|                Auteurs                 |
-|           :---------------:            |
-|              Victor Hugo               |
-|           Charle Baudelaire            |
-|             Arthur Rimbaud             |
-|             Paul Verlaine              |
+|      Auteurs      |
+| :---------------: |
+|    Victor Hugo    |
+| Charle Baudelaire |
+|  Arthur Rimbaud   |
+|   Paul Verlaine   |
 
 
 |      Résultat attendu (un auteur visité)      |
-| :-------------------------------------------: |
 |                    Auteurs                    |
 | :-------------------------------------------: |
 |                  Victor Hugo                  |
@@ -63,10 +61,9 @@ Indications :
 |                Arthur Rimbaud                 |
 |                 Paul Verlaine                 |
 |                                               |
-| Trois dernier auteurs consultés : Victor Hugo |
+***Trois dernier auteurs consultés : Victor Hugo***
 
 |                  Résultat attendu (plusieur auteurs visités)                   |
-| :----------------------------------------------------------------------------: |
 |                                    Auteurs                                     |
 | :----------------------------------------------------------------------------: |
 |                                  Victor Hugo                                   |
@@ -74,4 +71,4 @@ Indications :
 |                                 Arthur Rimbaud                                 |
 |                                 Paul Verlaine                                  |
 |                                                                                |
-| Trois dernier auteurs consultés : Paul Verlaine - Arthur Rimbaud - Victor Hugo |
+***Trois dernier auteurs consultés : Paul Verlaine - Arthur Rimbaud - Victor Hugo***
