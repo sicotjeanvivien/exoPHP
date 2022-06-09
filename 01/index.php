@@ -7,7 +7,7 @@
   <body>
     <div>
     <?php
-    echo 'Bonjour PHP.<br />';
+    echo 'Bonjour PHP.<br/>';
     echo 'Bienvenue sur monSite.com.';
     ?>
     </div>
