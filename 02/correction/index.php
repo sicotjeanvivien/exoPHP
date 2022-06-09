@@ -49,7 +49,7 @@ foreach ($auteurs as $key => $auteur) {
 			<tbody>
 				<?php echo $render_tbody ?>
 			</tbody>
-		</table>
+		</table>		
 	</div>
 </body>
 

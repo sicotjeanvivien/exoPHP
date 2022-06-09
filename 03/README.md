@@ -42,7 +42,7 @@ Pour terminer, nous souhaitons trier différemment  les auteurs et les afficher 
  
 Indications :
   - triez par ordre alphabétique le tableau des auteurs en préservant les clés
-  - dans la boucle d'affichage, des auteurs dans la table HTML, en supposant la encore que le nom d'un auteur est toujour sous la forme 'nom prénom', utilisez une autre technique qu'une expression rationnelle pour récupérer le nom et le prénom de l'auteur et afficher le nom sous la forme "nom (prénom".
+  - dans la boucle d'affichage, des auteurs dans la table HTML, en supposant la encore que le nom d'un auteur est toujour sous la forme 'nom prénom', utilisez une autre technique qu'une expression rationnelle pour récupérer le nom et le prénom de l'auteur et afficher le nom sous la forme "nom (prénom)".
  
  
  
