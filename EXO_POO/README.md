@@ -18,4 +18,4 @@
 
 4) Ajoutez une méthode retrait(x) qui enlève x à la somme sur le compte. Elle pourra renvoyer un erreur si la somme sur le compte devient négative et annuler alors l'opération.
 
-5) Ajoutez une méthode interets() qui calcule les intérêts perçus en un an et les ajoute à la somme placée. Pour rappel les intérets se calculent avec la formule interets = taux x somme / 1003
+5) Ajoutez une méthode interets() qui calcule les intérêts perçus en un an et les ajoute à la somme placée. Pour rappel les intérets se calculent avec la formule interets = taux x somme / 100
